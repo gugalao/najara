@@ -1,0 +1,24 @@
+@import "./_vars.scss";
+
+#header {
+
+    .psico-title {
+        text-align: center;
+        font-size: 3.5rem;
+        font-weight: 500;
+        color: $black;
+        text-transform: uppercase;
+        letter-spacing: 0.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .psico-work {
+        text-align: center;
+        font-size: 1.2rem;
+        font-weight: 500;
+        color: $black;
+        text-transform: uppercase;
+        letter-spacing: 0.5rem;
+        margin-bottom: 1.5rem;
+    }
+}
